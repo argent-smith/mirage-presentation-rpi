@@ -1,0 +1,11 @@
+{
+  "name": "mirage-presentation-fby",
+  "version": "1.0.0",
+  "description": "Presentation on MirageOS for f(by) 2019",
+  "main": "presentation.html",
+  "author": "argentoff@gmail.com",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "backslide": "^2.3.2"
+  }
+}
