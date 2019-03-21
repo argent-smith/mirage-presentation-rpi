@@ -1,5 +1,5 @@
-MiregeOS presentation for f(by) 2019
-====================================
+MiregeOS presentation for {Tver.io} 2019
+========================================
 
 Here be the source.
 
