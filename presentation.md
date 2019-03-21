@@ -13,7 +13,7 @@ class: impact
 ## {{subtitle}}
 ### @argent_smith
 ### Evrone.com
-### f(by)
+### {Tver.io}
 
 ---
 
